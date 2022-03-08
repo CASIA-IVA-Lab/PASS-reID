@@ -1,4 +1,4 @@
-# PASS_reID
+# PASS-reID
 
 论文标题及链接
 
