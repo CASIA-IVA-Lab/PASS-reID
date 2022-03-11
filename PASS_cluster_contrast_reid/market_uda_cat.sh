@@ -1,0 +1,2 @@
+# VIT-S
+CUDA_VISIBLE_DEVICES=0,1,2,3 python examples/cluster_contrast_train_usl.py -b 256 -a vit_small -d market1501 --data-dir '/userhome/zhukuan/data/' --iters 200 --eps 0.6 --self-norm --use-hard --hw-ratio 2 --num-instances 8 -pp "/userhome/zhukuan/PUP_reID/transreid_pup_multineck_cat/logs/msmt17/pup_vit_small_full_cat/transformer_120.pth" --logs-dir ./log/cluster_contrast_reid/msmt2market/vit_small_full_multineck_cat --feat-fusion 'cat' --multi-neck
