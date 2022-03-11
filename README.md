@@ -10,10 +10,10 @@ The *official* repository for [Part-Aware Self-Supervised Pre-Training for Perso
 ```bash
 pip install -r requirements.txt
 ```
-We recommend to use /torch=1.8.0 /torchvision=0.9.0 /timm=0.3.4 /cuda>11.1 /faiss-gpu=1.7.2/ 40G A100 for training and evaluation. If you find some packages are missing, please install them manually.
+We recommend to use /torch=1.8.0 /torchvision=0.9.0 /timm=0.3.4 /cuda>11.1 /faiss-gpu=1.7.2/ A100 for training and evaluation. If you find some packages are missing, please install them manually.
 You can refer to [DINO](https://github.com/facebookresearch/dino), [TransReID](https://github.com/damo-cv/TransReID) and [cluster-contrast-reid](https://github.com/alibaba/cluster-contrast-reid) to install the environment of pre-training, supervised ReID and unsupervised ReID, respectively. 
 
-You can also refer to [TransReID-SSL(https://github.com/damo-cv/TransReID-SSL)] to install the whole environments.
+You can also refer to [TransReID-SSL](https://github.com/damo-cv/TransReID-SSL) to install the whole environments.
 
 ### Prepare Datasets
 
