@@ -57,14 +57,14 @@ We have reproduced the performance to verify the reproducibility. The reproduced
 ### Supervised ReID
 
 ##### Market-1501
-| Model         | Image Size|mAP | Rrank-1 | Download |
+| Model         | Image Size|mAP | Rank-1 | Download |
 | :------:      | :------: |:------: | :------: |:------: |
 | ViT-S/16  | 256*128 | 92.2 | 96.3 |[model](https://drive.google.com/file/d/1e7QVo-0lJ9EUcRgJNIQ2gci2Pj1_ZE9M/view?usp=sharing) / [log](https://drive.google.com/file/d/1TsNEWoZ-Ry7otb9bLoz7mRLNFvUL5S6V/view?usp=sharing)|
 | ViT-S/16  | 384*128 | 92.6 | 96.8 |[model](https://drive.google.com/file/d/1201j4ix92953te-o3FrrXh5sqxtTO7TE/view?usp=sharing) / [log](https://drive.google.com/file/d/1-CelgQud4Rux49mJBXT5_JlDrrrmgUqA/view?usp=sharing)|
 | ViT-B/16  | 256*128 | 93.0 | 96.8 |[model](https://drive.google.com/file/d/104I1LStAfu52hlCMlx3eCIENIA_KMJUR/view?usp=sharing) / [log](https://drive.google.com/file/d/1m8UttTEbDKu3rrT37mZZGxlwZy8XYCVE/view?usp=sharing)|
 | ViT-B/16  | 384*128 | 93.3 | 96.9 |[model](https://drive.google.com/file/d/1dYQjK4ycpXRfOJFoucbizQlKdytoKmpl/view?usp=sharing) / [log](https://drive.google.com/file/d/14iSJKf7a4AkMkMNJMChezZVRgYJ7YeyA/view?usp=sharing)|
 ##### MSMT17
-| Model         | Image Size|mAP | Rrank-1 | Download |
+| Model         | Image Size|mAP | Rank-1 | Download |
 | :------:      | :------: |:------: | :------: |:------: |
 | ViT-S/16  | 256*128 | 69.1 | 86.5 |[model](https://drive.google.com/file/d/1or1Lj7Xvd_gmQIMEX_TvzcZsqOgNWoDk/view?usp=sharing) / [log](https://drive.google.com/file/d/1z-62DEt4PseMICFZm2fDwSniOgOrmI8Q/view?usp=sharing)|
 | ViT-S/16  | 384*128 | 71.7 | 87.9 |[model](https://drive.google.com/file/d/1EV4r3W_oCFn0JrhgwWX1j3X1jJR-BlcN/view?usp=sharing) / [log](https://drive.google.com/file/d/1Li0kLN3yYT1knC3Yrt5oscBnxJozilf9/view?usp=sharing)|
