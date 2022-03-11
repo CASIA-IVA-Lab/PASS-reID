@@ -9,7 +9,10 @@ python setup.py develop
 
 ### Prepare Pre-trained Models 
 Please download the pre-trained models and put them into your custom file folder.
-Pre-trained model on MSMT17 for Market1501 [model](https://drive.google.com/file/d/1rXr-uV5I5osgu6lhW_UfeguOvAW0nXgx/view?usp=sharing). Pre-trained model on Market1501 for MSMT17 [model](https://drive.google.com/file/d/1QQXU8x4EuxCMJ4hPi-NkAvNeenNz7AJy/view?usp=sharing)
+
+Pre-trained model on MSMT17 for Market1501 [model](https://drive.google.com/file/d/1rXr-uV5I5osgu6lhW_UfeguOvAW0nXgx/view?usp=sharing).
+
+Pre-trained model on Market1501 for MSMT17 [model](https://drive.google.com/file/d/1QQXU8x4EuxCMJ4hPi-NkAvNeenNz7AJy/view?usp=sharing).
 ### Training
 
 You can use 2 or 4 GPUs for training. For more parameter configuration, please check **`market_usl.sh`**, **`market_uda.sh`**, **`msmt_usl.sh`** and **`msmt_uda.sh`**.
