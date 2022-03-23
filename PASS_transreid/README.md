@@ -19,6 +19,7 @@ We utilize 1  GPU for training. Please modify the `MODEL.PRETRAIN_PATH` and `OUT
 ```bash
 python train.py --config_file configs/market/vit_small.yml
 ```
+You can also use 'single_head' and 'mean' to obtain almost the same performance (-0.3%) while reducing the dimension.
 
 ## Evaluation
 
