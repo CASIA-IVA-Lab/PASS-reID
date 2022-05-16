@@ -1,7 +1,7 @@
 ![Python >=3.7](https://img.shields.io/badge/Python->=3.7-yellow.svg)
 ![PyTorch >=1.8](https://img.shields.io/badge/PyTorch->=1.8-blue.svg)
 
-# Part-Aware Self-Supervised Pre-Training for Person Re-Identification [[pdf]](https://arxiv.org/abs/2203.03931)
+# PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification [[pdf]](https://arxiv.org/abs/2203.03931)
 The *official* repository for [PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification](https://arxiv.org/abs/2203.03931).
 
 ## Requirements
