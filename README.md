@@ -1,8 +1,8 @@
 ![Python >=3.7](https://img.shields.io/badge/Python->=3.7-yellow.svg)
 ![PyTorch >=1.8](https://img.shields.io/badge/PyTorch->=1.8-blue.svg)
 
-# Part-Aware Self-Supervised Pre-Training for Person Re-Identification [[pdf]](https://arxiv.org/pdf/2203.03931.pdf)
-The *official* repository for [Part-Aware Self-Supervised Pre-Training for Person Re-Identification](https://arxiv.org/pdf/2203.03931.pdf).
+# Part-Aware Self-Supervised Pre-Training for Person Re-Identification [[pdf]](https://arxiv.org/abs/2203.03931)
+The *official* repository for [PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification](https://arxiv.org/abs/2203.03931).
 
 ## Requirements
 
@@ -110,7 +110,7 @@ If you find this code useful for your research, please cite our paper
 
 ```
 @article{zhu2022part,
-  title={Part-Aware Self-Supervised Pre-Training for Person Re-Identification},
+  title={PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification},
   author={Zhu, Kuan and Guo, Haiyun and Yan, Tianyi and Zhu, Yousong and Wang, Jinqiao and Tang, Ming},
   journal={arXiv preprint arXiv:2203.03931},
   year={2022}
