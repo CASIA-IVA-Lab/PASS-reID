@@ -2,7 +2,7 @@
 ![PyTorch >=1.8](https://img.shields.io/badge/PyTorch->=1.8-blue.svg)
 
 # PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification [[pdf]](https://arxiv.org/abs/2203.03931)
-The *official* repository for [PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification](https://arxiv.org/abs/2203.03931).
+The *official* repository for [PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification](https://arxiv.org/abs/2203.03931) ECCV2022.
 
 ## Requirements
 
